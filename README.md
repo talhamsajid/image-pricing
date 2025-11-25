@@ -1,4 +1,4 @@
-# Art Print Pricing Calculator for WooCommerce
+# Image Pricing for WooCommerce
 
 A comprehensive WooCommerce plugin that automatically calculates pricing for art prints based on image dimensions, with frame options and shipping calculations - replicating Paolo's custom PHP logic.
 
