@@ -6,7 +6,7 @@
  * Version: 1.0.0
  * Author: Talha Munawar
  * License: GPL v2 or later
- * Tags: woocommerce, pricing, image, calculator, art, prints, dynamic pricing
+ * Tags: woocommerce, pricing, image, calculator, art, prints, dynamic pricing, exif, dimensions, framing, shipping zones, print on demand, variable pricing
  */
 
 // Prevent direct access
